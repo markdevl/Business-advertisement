@@ -264,7 +264,7 @@ const Footer = () => {
     <div className="footer-bottom">
         <div className="container">
             <div className="section-wrapper">
-                <p>&copy; 2024 <Link to="/">Shop Cart</Link> Designed by <a href="/" target="_blank">piyush upadhyay</a></p>
+                <p>&copy; 2024 <Link to="/">Shop Cart</Link> Designed by <a href="/" target="_blank">Preet Kansagra</a></p>
                 <div className="footer-bottom-list">
                     {
                         footerbottomList.map((val,i)=>(
